@@ -34,7 +34,7 @@
         <img src="https://go-skill-icons.vercel.app/api/icons?i=django&titles=true&perline=10" alt="Django" height="45">
         <img src="https://go-skill-icons.vercel.app/api/icons?i=aiogram&titles=true&perline=10" alt="Aiogram" height="45">
         <img src="https://go-skill-icons.vercel.app/api/icons?i=flask&titles=true&perline=10" alt="Flask" height="45">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=chi&titles=true&perline=10" alt="Chi" height="45">
+        <!-- <img src="https://go-skill-icons.vercel.app/api/icons?i=chi&titles=true&perline=10" alt="Chi" height="45"> -->
       </td>
     </tr>
     <tr>
