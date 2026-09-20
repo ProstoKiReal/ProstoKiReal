@@ -22,8 +22,8 @@
       <td><h4>Языки</h4></td>
       <td>
         <img src="https://go-skill-icons.vercel.app/api/icons?i=python&titles=true&perline=4" alt="Python" height="45">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=golang&titles=true&perline=4" alt="Go" height="45">
-        <!-- <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp&titles=true&perline=4" alt="C++" height="45">
+        <!-- <img src="https://go-skill-icons.vercel.app/api/icons?i=golang&titles=true&perline=4" alt="Go" height="45">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp&titles=true&perline=4" alt="C++" height="45">
         <img src="https://go-skill-icons.vercel.app/api/icons?i=js&titles=true&perline=4" alt="JavaScript" height="45"> -->
       </td>
     </tr>
